@@ -1,0 +1,6 @@
+{
+  "name": "Vaibhav AI Academy",
+  "description": "Give Your Child the AI Skills to Learn Smarter, Create More & Lead the Future. Premium practical AI education for Classes 5–12 in Banjara Hills, Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
